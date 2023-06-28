@@ -1,0 +1,263 @@
+@font-face{
+    font-family: carolingia;
+    src: url(../tipografia/carolingia.ttf);
+}
+@font-face {
+    font-family: Abel;
+    src: url(../tipografia/Abel-Regular.ttf);
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background-color: #dddbdb;
+}
+header{
+    background-color: #dddbdb;
+}
+
+.logohead{
+    width: 15rem;
+}
+.logohead:hover{
+    filter: brightness(110%);
+    cursor: pointer;
+}
+.navbar-toggler{
+    border-color: #801810;
+}
+.nav-item{
+    width: 176px;
+    height: 53px;
+}
+.nav-link{
+    font-family: Abel;
+    color: #ffff;
+        background-color: #801810 !important;
+
+}
+.nav-link:hover{
+   background-color: #B21F1A !important; 
+   color: #fff ;
+}
+
+.section1{
+    max-height: 200vh;
+    min-height: 50vh;
+}
+
+.section2-2{
+    
+    max-height: 200vh;
+    min-height: 50vh;
+}
+.section2-1{
+    
+    max-height: 100vh;
+    min-height: 40vh;
+}
+.section2{
+    
+    
+    max-height: 100vh;
+    min-height: 50vh;
+    
+    background-attachment: fixed;
+    
+}
+.section3{
+    background-image: url(../img/motomo.jpg);
+    max-height: 200vh;
+    min-height: 110vh;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.sectionvideo{
+    background-color: #111314 !important;
+}
+
+.titulo1{
+    color: #B21F1A;
+    font-size: 50px;
+    font-family: Abel ;
+}
+.titulo-1{
+    color: #B21F1A;
+    font-size: 40px;
+    font-family: Carolingia ;
+}
+.zi{
+    max-width: 700px;
+    
+    
+}
+
+
+.diavlo{
+    text-align: justify;
+    font-family: Abel;
+    color: #fff;
+    font-size: 20px;
+}
+.parrafo1{
+    text-align: justify;
+    font-family: Abel;
+    font-size: 20px;
+    color: #000;
+}
+.subtrin{
+    color: #B21F1A;
+    font-family: Abel;
+}
+.parrafo2{
+    text-align: justify;
+    font-family: Abel;
+    color: #000;
+    font-size: 20px;
+    max-width: 700px;
+    min-width: 300px;
+}
+.titucont{
+    width: 100%;
+    
+}
+.titutrin{
+    color: #B21F1A;
+    font-family: carolingia;
+    font-size: 40px;
+    margin: 0;
+    
+}
+#contimg{
+    
+    min-height: 350px;
+    max-height: 550px;
+}
+#textyo{
+    color: #e9e8e8;
+    font-family: Abel;
+}
+#textyo:hover{
+    color: #B21F1A;
+}
+.tituyo{
+    font-family: Abel !important;
+    font-size: 25px !important;
+}
+.parrayo{
+    text-align: justify !important;
+}
+.yotrin{
+    background-color: #ffffffa9;
+    width: 100%;
+}
+#contyo{
+    margin: auto;
+    max-width: 250px;
+}
+
+
+#trin{
+    background-color: transparent;
+    box-shadow: none;
+    display: block;
+    
+}
+
+#contnaje{
+    max-width: 250px;
+}
+#btnxd{
+    height: 100vh;
+}
+#btnzy{
+    color: white;
+    padding: 3rem;
+    border-radius: 4px;
+    background-color: #801810cc;
+    font-family: carolingia;
+    font-size: 40px;
+}
+.subtxt{
+    font-family: Abel;
+    color: #B21F1A;
+    font-size: 35px;
+}
+.subtxt:hover{
+    color: #646262;
+}
+.subtxt2{
+    font-family: Abel;
+   color: #B21F1A;
+}
+.chimbilin{
+    font-family: Abel;
+    color: #fff;
+    
+}
+.card-title{
+    font-family: Carolingia;
+    color: #B21F1A;
+    font-size: 30px;
+}
+.card-text{
+    font-family: Abel;
+    font-size: 18px;
+    text-align: justify;
+    color: #fff;
+}
+#btnzy:hover{
+    background-color: #941713c7;
+}
+
+
+
+
+
+footer{
+    background-color: #b2b1b153;
+}
+.logopie{
+    width: 50%;
+}
+.logopie:hover{
+    filter: brightness(110%);
+}
+.tituconpie{
+    font-family: Abel;
+    color: #B21F1A;
+}
+.redtext{
+    font-family: Abel;
+    color: #B21F1A;
+}
+.redcont{
+    display: flex;
+}
+.icon{
+    
+    width: 33%;
+}
+.icon:hover{
+    filter: brightness(120%);
+}
+.numcont{
+    font-family: Abel;
+    font-size: 18px;
+}
+i:hover{
+    cursor: pointer;
+    color: #B21F1A;
+}
+b:hover{
+    cursor: pointer;
+    color: #B21F1A;
+}
+.grupo2{
+    background-color: rgb(120, 120, 120);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    font-family: Abel;
+}
